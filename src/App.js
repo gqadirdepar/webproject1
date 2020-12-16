@@ -4,7 +4,7 @@ function App() {
   return (
     <div >
      This is my first web of hello word Ghulam Qadir Depar S/o Abdul Razak
-    <br>
+    
     This is my website
     </div>
   );
